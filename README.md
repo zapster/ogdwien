@@ -8,7 +8,7 @@ which is provided by the city of Vienna.
 USAGE
 =====
 
-`ogdwien-converter.py <input.kml> <output.kml>'
+`ogdwien-converter.py input.kml output.kml'
 
 REFERENCES
 ==========
