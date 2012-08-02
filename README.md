@@ -8,21 +8,28 @@ which is provided by the city of Vienna.
 USAGE
 =====
 
-`ogdwien-converter <input.kml> <output.kml>'
+`ogdwien-converter.py <input.kml> <output.kml>'
 
 REFERENCES
 ==========
-- [Open Goverment Data - Radfahranlangen](http://data.wien.gv.at/katalog/radfahranlagen.html)
+- [Open Government Data - Radfahranlangen](http://data.wien.gv.at/katalog/radfahranlagen.html)
+- [ogdwien-converter github page](https://github.com/zapster/ogdwien)
 
 INSTALL
 =======
 
-Installation is not neccessary. Just run the code as stated in the usage section.
+Installation is not necessary. Just run the code as stated in the usage section.
 
-Requirements
+REQUIREMENTS
 ============
 
 - Python
+
+BUGS
+====
+
+If you find a bug please open a new issue on the github page and feel free to
+fork the project and fix it ;).
 
 WARNINGS
 ========
@@ -34,7 +41,7 @@ Copyright (C) 2012 Josef Eisl
 
 ogdwien-converter is distributed under the GNU General Public license (see COPYING).
 
-JorthVM is written by 
+ogdwien-converter is written by 
 
 - Josef Eisl
 
