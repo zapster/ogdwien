@@ -3,7 +3,17 @@ ogdwien-converter - restructure OGD Vienna's bike route kml into a more organize
 GENERAL INFORMATION
 ===================
 ogdwien-converter is a simple python script which reorganizes the bicycle route kml file
-which is provided by the city of Vienna.  
+which is provided by the city of Vienna. Currently there are four different bicycle track
+types:
+
+- Radroute (Bicycle route; blue)
+- Radfahren im Wald (Outdoor/Mountain bike track; green)
+- Markierte Anlagen (Bicycle lane; orange)
+- Getrennte Führung (Dedicated bicycle track; red)
+
+In the original map they are not categorized and all types are drawn in the same color.
+This scripts creates a folder for every type and assigns different colors for the
+track types.
 
 USAGE
 =====
