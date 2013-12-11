@@ -22,7 +22,7 @@ USAGE
 
 REFERENCES
 ==========
-- [Open Government Data - Radfahranlangen](http://data.wien.gv.at/katalog/radfahranlagen.html)
+- [Open Government Data - Radfahranlangen](https://open.wien.at/site/datensatz/?id=5e6175cd-dc44-4b32-a64a-1ac4239a6e4a)
 - [ogdwien-converter github page](https://github.com/zapster/ogdwien)
 
 INSTALL
